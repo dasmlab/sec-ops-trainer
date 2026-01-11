@@ -53,6 +53,12 @@ The competency development is organized across these critical domains:
 - **Branchable Paths**: Allows specialization while maintaining core competencies
 - **Standards-Focused**: Integrates understanding of governing bodies and compliance frameworks
 
+## Version
+
+**Current Version**: 0.0.1-alpha
+
+See [VERSION](VERSION) file for version information.
+
 ## Contributing
 
 This is a living document. As security standards evolve and new training resources become available, this plan should be updated to reflect current best practices.
