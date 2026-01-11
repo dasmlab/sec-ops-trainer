@@ -59,5 +59,5 @@ This is a living document. As security standards evolve and new training resourc
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2026
 
